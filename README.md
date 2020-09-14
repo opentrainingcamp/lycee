@@ -1,2 +1,2 @@
 # lycee
-Python en première pour Léa (ma fille)
+Python en première et terminale pour Léa (ma fille)
